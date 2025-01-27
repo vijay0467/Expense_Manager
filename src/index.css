@@ -1,0 +1,15 @@
+/* index.css */
+
+/* Apply the background image and gradient to the body */
+body {
+    background-image: url('https://mdbcdn.b-cdn.net/img/new/fluid/nature/011.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Ensure the background covers the entire viewport height */
+    margin: 0; /* Remove any default margin */
+    
+  }
+ 
+  
+ 
