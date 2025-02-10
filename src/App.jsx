@@ -3,7 +3,7 @@ import ExpenseInput from "./components/ExpenseInput";
 import ExpenseList from "./components/ExpenseList";
 import ExpenseSummary from "./components/ExpenseSummary";
 import useExpensesManager from "./hooks/useExpenses";
-import useDebounce from "./hooks/useDebounce";
+import useDebounce from "./hooks/UseDebounce";
 
 const App = () => {
   const {
